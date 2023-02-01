@@ -4,7 +4,7 @@
 
 👽 ตอนนี้มีความสนใจในด้านการพัฒนาเว็บไซต์และเกม
 
-![Jalukit]https://scontent.fbkk29-6.fna.fbcdn.net/v/t1.6435-9/56744696_2171504099572045_3790905183907610624_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHonDzcFCpkg1fSqI3IDOzPM1Zf2MqJIMYzVl_YyokgxpqG1VI3Em1j1BmRHBejTbyUY62akVGf8GoPdJ2Cx0KP&_nc_ohc=2KIMOIu443UAX8IjozM&_nc_ht=scontent.fbkk29-6.fna&oh=00_AfDKVgxttamBKGjZpVv_jewh-c4fOnPVsEDSO47kQP0x5A&oe=6401AF1B
+![Jalukit] (https://scontent.fbkk29-6.fna.fbcdn.net/v/t1.6435-9/56744696_2171504099572045_3790905183907610624_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHonDzcFCpkg1fSqI3IDOzPM1Zf2MqJIMYzVl_YyokgxpqG1VI3Em1j1BmRHBejTbyUY62akVGf8GoPdJ2Cx0KP&_nc_ohc=2KIMOIu443UAX8IjozM&_nc_ht=scontent.fbkk29-6.fna&oh=00_AfDKVgxttamBKGjZpVv_jewh-c4fOnPVsEDSO47kQP0x5A&oe=6401AF1B)
 
 <!--
 **Jalukit/jalukit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
